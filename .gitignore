@@ -1,0 +1,19 @@
+# Cython generation:
+*.cpp
+*.so
+*.o
+celer.egg-info/*
+
+# Python precompilation
+*pyc
+
+# Data
+examples/data/*
+
+
+doc/*
+coverage/*
+.coverage
+
+.DS_Store
+MANIFEST
