@@ -1,7 +1,9 @@
 Debiased Sinkhorn barycenters
 -----------------------------
 
-Guide to reproduce the results of our submission. All experiments can be ran
+Guide to reproduce the results of (Janati et al, 2020, Debiased Sinkhorn barycenters)
+available at http://arxiv.org/abs/2006.02575.
+All experiments can be ran
 on CPU or GPUs. In the results reported in the paper, this is our used config
 with the computation time:
 
